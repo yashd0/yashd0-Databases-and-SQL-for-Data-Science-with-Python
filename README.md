@@ -1,4 +1,4 @@
-# yashd0-Databases-and-SQL-for-Data-Science-with-Python
+#Databases-and-SQL-for-Data-Science-with-Python
 About this Course
 923,383 recent views
 Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.  
